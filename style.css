@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body{
+    background-image: linear-gradient(to right,rgb(95, 196, 246),rgb(243, 192, 243));
+}
+li a{
+    display: flex;
+
+}
